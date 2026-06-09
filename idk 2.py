@@ -13,6 +13,6 @@ if __name__ == '__main__':
     sum_ = a + b
     diff = a - b
     product = a * b
-    print(summ)
+    print(sum_)
     print(diff)
     print(product)
